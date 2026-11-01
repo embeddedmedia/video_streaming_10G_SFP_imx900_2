@@ -27,8 +27,8 @@
     <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.otherInitCommands" value=""/>
     <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.otherRunCommands" value="monitor targets tap1.cpu0&#13;&#10;monitor reg pc 0xf9000000&#13;&#10;"/>
     <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.secondResetType" value="halt"/>
-    <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.targetRegFile" value="/home/steve/video_streaming_10g_demo_v1.4.1_2026.1_imx900_rpi/fpga/Ti375N1156-DK/embedded_sw/sapphire_gen/bsp/efinix/EfxSapphireSoc/openocd/sapphire_soc_32bit-reg.xml"/>
-    <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.svdPath" value="/home/steve/video_streaming_10g_demo_v1.4.1_2026.1_imx900_rpi/fpga/Ti375N1156-DK/embedded_sw/sapphire_gen/bsp/efinix/EfxSapphireSoc/openocd/sapphire_soc_xsvd.json"/>
+    <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.targetRegFile" value="/home/steve/GITHUB/TEST2/fpga/embedded_sw/sapphire_gen/bsp/efinix/EfxSapphireSoc/openocd/sapphire_soc_32bit-reg.xml"/>
+    <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.svdPath" value="/home/steve/GITHUB/TEST2/fpga/embedded_sw/sapphire_gen/bsp/efinix/EfxSapphireSoc/openocd/sapphire_soc_xsvd.json"/>
     <stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.imageFileName" value=""/>
     <stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.imageOffset" value=""/>
     <stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.ipAddress" value="localhost"/>

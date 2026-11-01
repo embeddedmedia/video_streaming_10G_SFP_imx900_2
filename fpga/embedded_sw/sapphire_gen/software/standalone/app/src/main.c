@@ -243,7 +243,11 @@ void console_main()
 void main() {
     u32 speed;
     bsp_init();
-    bsp_printf("Video Streaming 10G\r\n");
+    bsp_printf("\n");
+    bsp_printf("******************************************\r\n");
+    bsp_printf("Video Streaming Platform SMT135-C 10G SFP+\r\n");
+    bsp_printf("******************************************\r\n");
+    bsp_printf("\n");
 	init();
 //	set_video_startup();
     bsp_uDelay(1000*1000);

@@ -21,9 +21,9 @@
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.gdbServerExecutable" value="${eclipse_home}/../openocd/bin/openocd"/>
 <intAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.gdbServerGdbPortNumber" value="3333"/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.gdbServerLog" value=""/>
-<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.gdbServerOther" value="-c 'set bsp_loc {/home/steve/video_streaming_10g_demo_v1.4.1_2026.1_imx900_rpi/fpga/Ti375N1156-DK/embedded_sw/sapphire_gen}'&#13;&#10;-f '/home/steve/video_streaming_10g_demo_v1.4.1_2026.1_imx900_rpi/fpga/Ti375N1156-DK/embedded_sw/sapphire_gen/bsp/efinix/EfxSapphireSoc/openocd/ftdi_tz.cfg'&#13;&#10;-f '/home/steve/video_streaming_10g_demo_v1.4.1_2026.1_imx900_rpi/fpga/Ti375N1156-DK/embedded_sw/sapphire_gen/bsp/efinix/EfxSapphireSoc/openocd/debug_tz.cfg'&#13;&#10;"/>
-<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.targetRegFile" value="/home/steve/video_streaming_10g_demo_v1.4.1_2026.1_imx900_rpi/fpga/Ti375N1156-DK/embedded_sw/sapphire_gen/bsp/efinix/EfxSapphireSoc/openocd/sapphire_soc_32bit-reg.xml"/>
-<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.svdPath" value="/home/steve/video_streaming_10g_demo_v1.4.1_2026.1_imx900_rpi/fpga/Ti375N1156-DK/embedded_sw/sapphire_gen/bsp/efinix/EfxSapphireSoc/openocd/sapphire_soc_xsvd.json"/>
+<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.gdbServerOther" value="-c 'set bsp_loc {/home/steve/GITHUB/TEST2/fpga/embedded_sw/sapphire_gen}'&#13;&#10;-f '/home/steve/GITHUB/TEST2/fpga/embedded_sw/sapphire_gen/bsp/efinix/EfxSapphireSoc/openocd/ftdi_tz.cfg'&#13;&#10;-f '/home/steve/GITHUB/TEST2/fpga/embedded_sw/sapphire_gen/bsp/efinix/EfxSapphireSoc/openocd/debug_tz.cfg'&#13;&#10;"/>
+<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.targetRegFile" value="/home/steve/GITHUB/TEST2/fpga/embedded_sw/sapphire_gen/bsp/efinix/EfxSapphireSoc/openocd/sapphire_soc_32bit-reg.xml"/>
+<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.svdPath" value="/home/steve/GITHUB/TEST2/fpga/embedded_sw/sapphire_gen/bsp/efinix/EfxSapphireSoc/openocd/sapphire_soc_xsvd.json"/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.gdbServerTclPortNumber" value="6666"/>
 <intAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.gdbServerTelnetPortNumber" value="4444"/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.otherInitCommands" value=""/>
