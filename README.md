@@ -2,7 +2,7 @@
 
 **Software Version**
 
-Efinix version 2026.1
+Efinix version 2026.1  
 Ubuntu 22.04.5 LTS
 
 
